@@ -1,4 +1,4 @@
-package factory;
+package CreationalDesignPatterns.factory;
 
 /*
  * When there is superclass and there are multiple subclass and we want to create object based on the input then we use this patterns

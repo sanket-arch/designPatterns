@@ -1,4 +1,4 @@
-package factory;
+package CreationalDesignPatterns.factory;
 
 /*
  * Factory class
