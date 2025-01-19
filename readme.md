@@ -2,7 +2,7 @@
 
 > > [Click here to watch full series](https://www.youtube.com/playlist?list=PL0zysOflRCek8kmc_jYl_6C7tpud7U2V_)
 
-### This note is taken form code with durgesh just for learning purpose. I am not owning any of the mentioned content below.
+### This note is taken from code with durgesh just for learning purpose. I am not owning any of the mentioned content below.
 
 # Singleton Design Pattern
 
